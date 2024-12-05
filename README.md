@@ -21,7 +21,7 @@
 
 * 🎓 **[KenzieHub](https://github.com/andreycaetano/Kenzie-Hub)**: Plataforma onde o aluno pode se cadastrar logar e pela dashbord ir atualizando seus conhecimentos e estudos!
 
-* ![image](https://github.com/user-attachments/assets/2d547b69-dced-46d3-9f8a-d65f02f4b698) **[APIHotel](https://github.com/andreycaetano/APIHotel)**: API Rest Desenvolvida para uma aplicação que gerenciava grupo de hoteis, com sistema de blog, galeria e ofertas. Com sistema de painel administrador onde o cliente pode gerenciar muitas das aparencias de sua aplicação
+* **[APIHotel](https://github.com/andreycaetano/APIHotel)**: API Rest Desenvolvida para uma aplicação que gerenciava grupo de hoteis, com sistema de blog, galeria e ofertas. Com sistema de painel administrador onde o cliente pode gerenciar muitas das aparencias de sua aplicação
 
 
 <h2 align="left">
